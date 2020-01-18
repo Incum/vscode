@@ -67,5 +67,10 @@
 		"msjsdiag.debugger-for-chrome": "workspace"
 	},
 	"gulp.autoDetect": "off",
-	"files.insertFinalNewline": true
+	"files.insertFinalNewline": true,
+	"bookmarks.navigateThroughAllFiles": true,
+	"bookmarks.saveBookmarksInProject": true,
+	"bookmarks.backgroundLineColor": "\"bookmarks.backgroundLineColor\": \"\"",
+	"bookmarks.sideBar.expanded": true,
+	"bookmarks.useWorkaroundForFormatters": true
 }
