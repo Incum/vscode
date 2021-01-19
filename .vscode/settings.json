@@ -72,8 +72,16 @@
 	},
 	"gulp.autoDetect": "off",
 	"files.insertFinalNewline": true,
+<<<<<<< HEAD
   "[typescript]": {
 		"editor.defaultFormatter": "vscode.typescript-language-features"
 	},
 	"typescript.tsc.autoDetect": "off"
+=======
+	"bookmarks.navigateThroughAllFiles": true,
+	"bookmarks.saveBookmarksInProject": true,
+	"bookmarks.backgroundLineColor": "\"bookmarks.backgroundLineColor\": \"\"",
+	"bookmarks.sideBar.expanded": true,
+	"bookmarks.useWorkaroundForFormatters": true
+>>>>>>> master
 }
